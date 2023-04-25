@@ -1,0 +1,279 @@
+*{
+    margin: 0%;
+    padding:0%;
+  overflow-x: hidden;
+}
+.logo img{
+    max-height:100px;
+    max-width: 100px;
+}
+.nav-items{
+    margin-right: 20%;
+    
+}
+.navbar{
+ margin-bottom:-6%;  
+   
+   
+}
+.nav-items a{
+text-decoration: none;
+padding-left: 100px;
+color: rgb(145, 141, 141);
+
+
+}
+.nav-items a:hover{
+    color: green;
+}
+.nav-items button{
+    background-color: rgb(203, 222, 174,0.7)
+    
+  
+}
+/* sectionone  */
+.sectionone{
+background-image: url(./images/background23.png);
+background-size: cover;
+height: 100vh;
+
+
+
+}
+
+.secure{
+   
+   
+}
+.crypto{
+    color: blue;
+}
+.landpage{
+    color: aliceblue;
+    padding-top: 200px;
+    padding-left: 100px;
+   
+    
+    
+}
+.landpage h1{
+    font-size: 50px;
+}
+.landpage p{
+    font-size: 20px;
+   
+    border-left: 5px solid blue;
+    padding-left: 2%;
+
+}
+.table-currency{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.navbar3{
+
+}
+table{
+width: 80%;
+    margin-left: 10%;
+   padding-left: 10%;
+    background-color: rgb(156, 150, 150,0.07);
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: 20px;
+}
+th{
+    font-size: 20px;
+}
+
+th,td {
+    text-align: left;
+    padding: 10px;
+    padding: 4%;
+   
+}
+tr:nth-child(even){
+    background-color: rgb(49, 46, 46,0.7);
+}
+.navbar2{
+    background: linear-gradient(rgb(148, 233, 58),white);
+    height: 100px;
+    
+   
+}
+.sect{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.view{
+    padding-right: 2%;
+}
+.view a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+   
+}
+.tableButton{
+    padding: 20% 40% 20% 40%;
+    font-size: 1rem;
+    border-radius: 30px;
+    border: 1px solid white;
+
+}
+.tableButton:hover{
+background-color: red;
+}
+.navbar2 a{
+    margin-left: 10%;
+    margin-bottom: 80px;
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+}
+.landspace{
+    background-color:black;
+    color: aliceblue;
+}
+.landpace{
+    margin: 5%;
+
+}
+.vaults{
+    border-radius: 10px; 
+    background-color: rgba(71, 71, 194, 0.7); 
+    border: 1px solid blue;
+    padding: 20px; 
+    width: 300px;  
+    height: 300px;
+    margin-top:10% ;
+    margin-right: 5%;
+   
+  
+}
+
+.vaults img{
+    height:100px ;
+    margin-left: 10%;
+    border-radius: 50px;
+    border: 1px solid blue;
+    padding: 20px;
+}
+.payment{
+    border-radius: 10px;
+    background-color: rgba(71, 71, 194, 0.7);
+    border: 1px solid blue;
+    padding: 40px; 
+    width: 300px;
+    margin-bottom: 10%;
+}
+.payment img{
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid blue;
+    padding: 20px;
+}
+.system{
+    border-radius: 10px;
+    background-color: rgba(71, 71, 194, 0.7);
+    border: 1px solid blue;
+    padding: 30px; 
+    width: 300px;
+    margin-bottom: 20%; 
+}
+.system img{
+    height: 100px;
+    border-radius: 200px;
+    border: 1px solid blue;
+    padding: 30px;
+}
+.headingOne{
+margin-top: 20%;
+
+}
+.headingOne p{
+    font-size: 20px;
+}
+.landpageTwo{
+    background-color: black;
+    color: aliceblue;
+}
+.crypto2{
+    margin-top: 5%;
+}
+.crypto2 h5{
+    color: rgb(139, 180, 77);
+    font-size: 20px;
+}
+.crypto2 h3{
+    font-size: 40px;
+}
+.landscape2{
+    background-color: black;
+    color: aliceblue;
+}
+.clarity{
+   display: flex;
+   margin-bottom: 5%;
+}
+.clarity img{
+    height: 100px;
+
+}
+.eye2{
+    font-size: 15px;
+}
+.landpageThree{
+    background-color: black;
+}
+.lowerHeading{
+    color: aliceblue;
+    margin-top: 10%;
+    font-size: 20px;
+}
+.lowerHeading h2{
+    font-size: 40px;
+}
+.lowerHeading h6{
+    color: greenyellow;
+}
+.google{
+    height: 50px;
+    
+}
+.randot{
+    background-color: black;
+    color: aliceblue;
+   
+}
+.subfooter{
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+/* //footer */
+.footer{
+    background-color: rgb(17, 17, 16);
+    color: aliceblue;
+}
+.rand{
+    margin-top: 2%;
+}
+.logo2 img{
+    height: 50px;
+}
+.rows2 input{
+padding: 10px;
+margin-left: 2%;
+border-radius: 20px;
+background-color: transparent;
+color: aliceblue;
+}
+.rows2 button{
+border-radius: 20px;
+margin-left: -17%;
+background-color: greenyellow;
+border:none ;
+
+}
